@@ -1,0 +1,13 @@
+[package]
+name = "rest-api-test"
+version = "0.1.0"
+authors = ["electrobreath <nikita.nn@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+iron = "0.6.0"
+router = "0.6.0"
+urlencoded = "0.6.0"
+mime = "0.3.13"
+
+
